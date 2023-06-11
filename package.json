@@ -1,0 +1,22 @@
+{
+  "name": "leetcodegameroom",
+  "version": "1.0.0",
+  "description": "A way for you to create virtual contests on leetcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WinterSoldier13/leetcodeGameRoom.git"
+  },
+  "author": "WinterSoldier13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WinterSoldier13/leetcodeGameRoom/issues"
+  },
+  "homepage": "https://github.com/WinterSoldier13/leetcodeGameRoom#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
