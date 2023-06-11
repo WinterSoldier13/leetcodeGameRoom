@@ -1,0 +1,14 @@
+h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+  
+  button {
+    width: 100px;
+    height: 25px;
+    background-color: #009225;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+  }
+  
