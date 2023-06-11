@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .container {
+      display: flex;
+      height: 100vh;
+    }
+
+    .left-pane,
+    .right-pane {
+      width: 50%;
+      height: 100%;
+      overflow: auto;
+    }
+
+    .option {
+      padding: 10px;
+      cursor: pointer;
+      border-bottom: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="left-pane">
+      <iframe id="websiteFrame" width="100%" height="100%"></iframe>
+    </div>
+    <div class="right-pane">
+      <div class="option" id="option1">Google</div>
+      <div class="option" id="option2">YouTube</div>
+      <span id="timer"></span>
+    </div>
+  </div>
+
+  <script src="newtab.js"></script>
+</body>
+</html>
