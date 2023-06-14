@@ -19,10 +19,10 @@ Leetcode-GameRoom addresses these challenges by providing the option to select t
 
 Furthermore, the extension displays a timer on the Leetcode page, allowing you to race against the clock while solving problems.
 
-![Extension](https://github.com/WinterSoldier13/leetcodeGameRoom/blob/main/asset/clock_screenshot.png)
+![Extension](https://github.com/WinterSoldier13/leetcodeGameRoom/raw/main/asset/clock_screenshot.png)
 *Screenshot of the Chrome extension*
 
-![Clock](https://github.com/WinterSoldier13/leetcodeGameRoom/blob/main/asset/clock_screenshot.png)
+![Clock](https://github.com/WinterSoldier13/leetcodeGameRoom/raw/main/asset/clock_screenshot.png)
 *Screenshot of the timer*
 
 ## How to Install Locally
