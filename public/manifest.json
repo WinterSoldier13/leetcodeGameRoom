@@ -1,6 +1,6 @@
 {
     "name": "LeetCode GameRoom",
-    "description": "Join the virual contest!!!",
+    "description": "Create virual contest for yourself on LeetCode!!!",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
@@ -13,5 +13,8 @@
         "default_title": "Let's go!!",
         "default_popup": "ui/start_room/landingPage.html"
     },
-    "host_permissions": ["https://leetcode.com/*"]
+    "host_permissions": ["https://leetcode.com/*"],
+    "icons": {
+        "128": "programming_icon.png"
+    }
 }
