@@ -12,5 +12,6 @@
     "action": {
         "default_title": "Let's go!!",
         "default_popup": "ui/start_room/landingPage.html"
-    }
+    },
+    "host_permissions": ["https://leetcode.com/*"]
 }
