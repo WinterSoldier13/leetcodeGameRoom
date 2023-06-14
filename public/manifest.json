@@ -4,8 +4,11 @@
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
-        "activeTab", "scripting"
+        "activeTab", "scripting", "tabs"
     ],
+    "background": {
+        "service_worker": "background.js"
+    },
     "action": {
         "default_title": "Let's go!!",
         "default_popup": "ui/start_room/landingPage.html"

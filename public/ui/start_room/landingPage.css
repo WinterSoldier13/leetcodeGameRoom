@@ -1,14 +1,17 @@
-h1 {
-    font-size: 2em;
-    text-align: center;
-  }
-  
-  button {
-    width: 100px;
-    height: 25px;
-    background-color: #009225;
-    color: #FFFFFF;
-    border: none;
-    cursor: pointer;
-  }
-  
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+select, input, button {
+  margin: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
