@@ -1,6 +1,6 @@
 # Leetcode-GameRoom
 
-This Chrome extension helps you practice solving problems on Leetcode.
+This Chrome extension helps you practice solving problems on Leetcode. Install it from Chrome WebStore : https://chrome.google.com/webstore/detail/leetcode-gameroom/bhfcnklncejdhdppjljnapnjoljhgane
 
 ## Motive behind Creating This Extension
 
